@@ -1,2 +1,4 @@
 # 新增镜像
 rustdesk/rustdesk-server
+# 新增jenkins
+jenkins/jenkins:lts
