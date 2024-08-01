@@ -2,3 +2,5 @@
 rustdesk/rustdesk-server
 # 新增jenkins
 jenkins/jenkins:lts
+# 新增laoyutang/clash-and-dashboard猫
+laoyutang/clash-and-dashboard
