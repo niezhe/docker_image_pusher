@@ -5,3 +5,4 @@ jenkins/jenkins:lts
 # 新增laoyutang/clash-and-dashboard猫
 laoyutang/clash-and-dashboard
 tomcat:9.0.93-jdk21-corretto-al2
+xhofe/alist-aria2
