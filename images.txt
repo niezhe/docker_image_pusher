@@ -8,4 +8,4 @@ tomcat:9.0.93-jdk21-corretto-al2
 xhofe/alist-aria2
 # 新增python镜像
 python:3.9.20-bullseye
-----platform linux/arm64/v8
+--platform linux/arm64/v8
