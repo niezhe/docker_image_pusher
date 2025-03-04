@@ -8,3 +8,5 @@ tomcat:9.0.93-jdk21-corretto-al2
 xhofe/alist-aria2
 # 新增思源镜像
 demoshang/siyuan:v3.1.14
+# 新增chatgpt-next-web
+yidadaa/chatgpt-next-web
